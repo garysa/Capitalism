@@ -206,6 +206,7 @@ competitive gap before Eastern model dominance becomes structural.**
 | [FINANCIAL_CAPITALISM_AS_EXTRACTION.md](FINANCIAL_CAPITALISM_AS_EXTRACTION.md) | Financial capitalism as structured wealth extraction |
 | [TERMINAL_TRAJECTORY.md](TERMINAL_TRAJECTORY.md) | Eastern de-dollarization and the terminal trajectory of Western decline |
 | [CONCLUSIONS.md](CONCLUSIONS.md) | Summary conclusions across all themes |
+| [WAR_OPTION.md](WAR_OPTION.md) | Will the West choose war — Thucydides Trap, flashpoints, who benefits, verdict |
 
 ---
 
