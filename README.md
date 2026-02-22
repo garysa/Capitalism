@@ -205,6 +205,7 @@ competitive gap before Eastern model dominance becomes structural.**
 | [INFLATION_DEFLATION.md](INFLATION_DEFLATION.md) | How industrial capitalism deflates and financial capitalism inflates |
 | [FINANCIAL_CAPITALISM_AS_EXTRACTION.md](FINANCIAL_CAPITALISM_AS_EXTRACTION.md) | Financial capitalism as structured wealth extraction |
 | [TERMINAL_TRAJECTORY.md](TERMINAL_TRAJECTORY.md) | Eastern de-dollarization and the terminal trajectory of Western decline |
+| [CONCLUSIONS.md](CONCLUSIONS.md) | Summary conclusions across all themes |
 
 ---
 
